@@ -1,0 +1,2 @@
+# PcapPlus
+Name: Pcap Plus Basic Requirement: Wireshark should be installed  Compatible with: win-xp,windows vista,windows 7 Scope: This is a very basic tool developed in VB.net that uses many network files (.net,.tmp,.rec,.bin) which are created in Internet data capture of mobile towers used by Mobile companies.It convert and merge all these files into a single pcap file so that it is easy to analyse and also time saving.
